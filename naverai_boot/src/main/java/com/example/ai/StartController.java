@@ -8,6 +8,9 @@ public class StartController {
 //http://localhost:8064/
 	@GetMapping("/")
 	public String start(){
+//<<<<<<< test1
+		System.out.println("안녕하세요 하이");
+//=======
 //<<<<<<< main
 		System.out.println("차유빈");
 //=======
@@ -25,6 +28,7 @@ public class StartController {
 //>>>>>>> test1
 //<<<<<<< test1
 //=======
+//>>>>>>> test1
 //>>>>>>> test1
 //>>>>>>> test1
 		return "start"; 
