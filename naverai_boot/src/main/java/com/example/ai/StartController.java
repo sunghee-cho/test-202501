@@ -9,6 +9,9 @@ public class StartController {
 	@GetMapping("/")
 	public String start(){
 //<<<<<<< test1
+		System.out.println("김도현");
+//=======
+//<<<<<<< test1
 		System.out.println("안녕하세요 하이");
 //=======
 //<<<<<<< main
@@ -28,6 +31,7 @@ public class StartController {
 //>>>>>>> test1
 //<<<<<<< test1
 //=======
+//>>>>>>> test1
 //>>>>>>> test1
 //>>>>>>> test1
 //>>>>>>> test1
